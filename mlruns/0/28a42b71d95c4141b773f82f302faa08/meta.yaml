@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aarish/Documents/MLFlow/mlruns/0/28a42b71d95c4141b773f82f302faa08/artifacts
+end_time: 1690565907888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28a42b71d95c4141b773f82f302faa08
+run_name: enchanting-pig-721
+run_uuid: 28a42b71d95c4141b773f82f302faa08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690565903833
+status: 3
+tags: []
+user_id: aarish
